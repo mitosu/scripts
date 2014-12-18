@@ -1,6 +1,7 @@
 <?php
 	$tiempo_inicio = microtime(true);
 
+	//Aquí el script a medir tiempo
 	mifunciondelaostia();
 
 	$tiempo_final = microtime(true);
